@@ -10,7 +10,7 @@
     <li><strong>Databases</strong>: MySQL, MongoDB</li>
   </ul>
   <h2>📚 Languages and Tools</h2>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut&theme=radical" alt="Top Langs">
   <h2>🚀 Projects</h2>
   <ul>
     <li><strong><a href="#">Project Name 1</a></strong>: A brief description of what this project does.</li>
