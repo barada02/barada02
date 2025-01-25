@@ -11,15 +11,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Update README with dynamic content
+    - name: Update README with language chart
       run: |
-        # Add your script here to update the README file
-        echo "Updating README..."
+        echo "Fetching latest language data..."
+        # Add your script here to update the README file with the latest language chart data
 
     - name: Commit changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
         git add README.md
-        git commit -m "Update README with dynamic content" || echo "No changes to commit"
+        git commit -m "Update README with language chart" || echo "No changes to commit"
         git push

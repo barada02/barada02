@@ -9,6 +9,9 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 - **Tools**: Git, Docker, Jenkins
 - **Databases**: MySQL, MongoDB
 
+## 📚 Languages and Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 ## 🚀 Projects
 - **[Project Name 1](#)**: A brief description of what this project does.
 - **[Project Name 2](#)**: A brief description of what this project does.
