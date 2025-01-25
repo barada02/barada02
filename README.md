@@ -30,3 +30,11 @@
   </ul>
   <p>Feel free to reach out if you have any questions or just want to connect!</p>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
