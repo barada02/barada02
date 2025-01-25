@@ -13,6 +13,9 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 - **[Project Name 1](#)**: A brief description of what this project does.
 - **[Project Name 2](#)**: A brief description of what this project does.
 
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ## 📫 Contact Me
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Your LinkedIn Profile](#)
