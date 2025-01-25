@@ -11,8 +11,9 @@
   </ul>
   <h2>📚 Languages and Tools</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut-vertical" alt="Top Langs">
   <h2>🚀 Projects</h2>
-  <ul>
+  <ul>[!
     <li><strong><a href="#">Project Name 1</a></strong>: A brief description of what this project does.</li>
     <li><strong><a href="#">Project Name 2</a></strong>: A brief description of what this project does.</li>
   </ul>
