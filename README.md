@@ -65,7 +65,7 @@
     </tr>
   </table>
   
-  <div align="left">
+  <div align="left" layout="dynamic">
   <h2>📚 Languages and Tools</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&langs_count=8&layout=donut&theme=radical" alt="Top Langs">
   
