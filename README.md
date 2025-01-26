@@ -67,10 +67,10 @@
   
   <div align="left">
   <h2>📚 Languages and Tools</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&langs_count=8&layout=donut&theme=radical" alt="Top Langs">
   
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=barada02&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=barada02&hide_rank=true&show_icons=true&theme=radical" alt="GitHub stats">
   </div>
 
   <h2>📫 Contact Me</h2>
