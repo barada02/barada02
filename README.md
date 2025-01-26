@@ -55,13 +55,14 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   </div>
+  <div align="left">
   <h2>📚 Languages and Tools</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut&theme=radical" alt="Top Langs">
   
-  <h2>🚀 Projects</h2>
-  
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=barada02&show_icons=true&theme=radical" alt="GitHub stats">
+  </div>
+
   <h2>📫 Contact Me</h2>
   <ul>
     <li><strong>Email</strong>: <a href="mailto:chandanbarada02@gmail.com">chandanbarada02@gmail.com</a></li>
