@@ -23,13 +23,7 @@
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
         </div>
-      </td>
-      <td>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM2bzU3Nnd2d29ndXN3aXBnejJleHJvN3U4cjV4cTA3dWpmdW5lNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="GIF" />
-      </td>
-    </tr>
-  </table>
-  <div align="left">
+        <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
@@ -64,6 +58,13 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   </div>
+      </td>
+      <td>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM2bzU3Nnd2d29ndXN3aXBnejJleHJvN3U4cjV4cTA3dWpmdW5lNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="GIF" />
+      </td>
+    </tr>
+  </table>
+  
   <div align="left">
   <h2>📚 Languages and Tools</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut&theme=radical" alt="Top Langs">
