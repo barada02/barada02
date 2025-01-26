@@ -57,18 +57,15 @@
   </div>
   <h2>📚 Languages and Tools</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut&theme=radical" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=donut-vertical" alt="Top Langs">
+  
   <h2>🚀 Projects</h2>
-  <ul>
-    <li><strong><a href="#">Project Name 1</a></strong>: A brief description of what this project does.</li>
-    <li><strong><a href="#">Project Name 2</a></strong>: A brief description of what this project does.</li>
-  </ul>
+  
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=barada02&show_icons=true&theme=radical" alt="GitHub stats">
   <h2>📫 Contact Me</h2>
   <ul>
-    <li><strong>Email</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-    <li><strong>LinkedIn</strong>: <a href="#">Your LinkedIn Profile</a></li>
+    <li><strong>Email</strong>: <a href="mailto:chandanbarada02@gmail.com">chandanbarada02@gmail.com</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chandan-barada-2a21401a7/">LinkedIn Profile</a></li>
   </ul>
   <h2>🎉 Fun Facts</h2>
   <ul>
