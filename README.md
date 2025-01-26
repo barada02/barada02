@@ -85,6 +85,24 @@
     <li><strong>Email</strong>: <a href="mailto:chandanbarada02@gmail.com">chandanbarada02@gmail.com</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/">LinkedIn Profile</a></li>
   </ul>
+  <h2>🔗 Connect with Me</h2>
+  <div align="left">
+    <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://x.com/Mr_ck__" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    </a>
+    <a href="#" title="Discord: quetzal_002">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    </a>
+    <a href="https://www.instagram.com/mr.____kumar__/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
+    <a href="mailto:chandanbarada2@gmail.com">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+  </div>
   <h2>🎉 Fun Facts</h2>
   <ul>
     <li>I love hiking and exploring new trails.</li>
