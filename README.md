@@ -66,7 +66,7 @@
   <h2>📫 Contact Me</h2>
   <ul>
     <li><strong>Email</strong>: <a href="mailto:chandanbarada02@gmail.com">chandanbarada02@gmail.com</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chandan-barada-2a21401a7/">LinkedIn Profile</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/">LinkedIn Profile</a></li>
   </ul>
   <h2>🎉 Fun Facts</h2>
   <ul>
