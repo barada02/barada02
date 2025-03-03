@@ -84,7 +84,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2YjBmMjY0Y2UyMGM2NGFkZWY5Y2JlNDc4MWYzYjM1ZDU0ZmM3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
+        <img src="Animation.gif" alt="Coding Animation" width="300"/>
       </td>
       <td>
         <div align="left">
