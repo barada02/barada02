@@ -81,23 +81,32 @@
   </div>
 
   <h2>🔗 Connect with Me</h2>
-  <div align="left">
-    <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="https://x.com/Mr_ck__" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-    </a>
-    <a href="#" title="Discord: quetzal_002">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    </a>
-    <a href="https://www.instagram.com/mr.____kumar__/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    </a>
-    <a href="mailto:chandanbarada2@gmail.com">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2YjBmMjY0Y2UyMGM2NGFkZWY5Y2JlNDc4MWYzYjM1ZDU0ZmM3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
+      </td>
+      <td>
+        <div align="left">
+          <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+          </a>
+          <a href="https://x.com/Mr_ck__" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+          </a>
+          <a href="#" title="Discord: quetzal_002">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+          </a>
+          <a href="https://www.instagram.com/mr.____kumar__/" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+          </a>
+          <a href="mailto:chandanbarada2@gmail.com">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
   <h2>🎉 Fun Facts</h2>
   <ul>
     <li>I love hiking and exploring new trails.</li>
