@@ -111,10 +111,3 @@
   <p>Feel free to reach out if you have any questions or just want to connect!</p>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/barada02/barada02/output/snake.svg" alt="Snake animation" />
-
-###
