@@ -65,7 +65,7 @@
     </tr>
   </table>
   
-  <div align="left" style="background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdGE2M2h2cmd0anpxYWxsYWNhYnRoeXk5OXN4N2drMXlldWk4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif'); background-size: cover; background-repeat: no-repeat; padding: 20px; border-radius: 10px;">
+  <div align="left">
   <table>
     <tr>
       <td>
@@ -110,4 +110,3 @@
   </ul>
   <p>Feel free to reach out if you have any questions or just want to connect!</p>
 </div>
-
