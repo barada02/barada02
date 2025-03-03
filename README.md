@@ -3,29 +3,10 @@
   <h3 align="left">Welcome to my Profile. Nice to See you.</h3>
   <p align="left">My name is Chandan Kumar Barada From Bharat (India 🇮🇳). <br>Currently developing my Skill and work base on AI/ML Based application.<br>Experimenting Different RAG architecture and LLM fine tuning.</p>
   <h2>🛠 Skills</h2>
-  <style>
-    .skill {
-      background: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdGE2M2h2cmd0anpxYWxsYWNhYnRoeXk5OXN4N2drMXlldWk4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif') center/cover;
-      padding: 20px;
-      border-radius: 15px;
-      margin: 10px 0;
-      backdrop-filter: blur(5px);
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-    }
-    .skill img {
-      background: rgba(255, 255, 255, 0.3);
-      padding: 8px;
-      border-radius: 8px;
-      transition: transform 0.3s ease;
-    }
-    .skill img:hover {
-      transform: scale(1.1);
-    }
-  </style>
   <table>
     <tr>
       <td>
-        <div class="skill" align="left">
+        <div align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
