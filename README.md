@@ -5,7 +5,7 @@
   <h2>🛠 Skills</h2>
   <table>
     <tr>
-      <td>
+      <td style="background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdGE2M2h2cmd0anpxYWxsYWNhYnRoeXk5OXN4N2drMXlldWk4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif'); background-size: cover; background-repeat: no-repeat; padding: 20px; border-radius: 10px;">
         <div align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
           <img width="12" />
