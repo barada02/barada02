@@ -100,7 +100,7 @@
     </td>
     <td align="center" width="90" style="border: 2px solid #444;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="50" height="50" alt="Vue.js" />   
-      <br>ReactNative.js
+      <br>ReactNative
     </td>
     <td align="center" width="90" style="border: 2px solid #444;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
