@@ -137,7 +137,6 @@
 
 ### 📬 Feel free to reach out for collaborations or just a friendly chat!
 
-![Snake animation](https://raw.githubusercontent.com/barada02/barada02/output/github-contribution-grid-snake-dark.svg)
 
 ⭐️ From [barada02](https://github.com/barada02) with ❤️
 
