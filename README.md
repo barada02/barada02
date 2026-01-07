@@ -94,12 +94,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=barada02&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=barada02&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 <div align="center">
