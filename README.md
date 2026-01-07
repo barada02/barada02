@@ -37,7 +37,7 @@
 ### 💻 Programming Languages
 <table>
   <tr>
-    <td align="center" width="50" style="border: 2px solid #444;">
+    <td align="center" width="90" style="border: 2px solid #444;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
       <br>Python
     </td>
