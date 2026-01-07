@@ -233,7 +233,11 @@
 
 ## 🐍 Watch the Snake Eat My Contributions!
 
-![Snake animation](https://raw.githubusercontent.com/barada02/barada02/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barada02/barada02/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barada02/barada02/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barada02/barada02/output/snake.svg">
+</picture>
 
 <br>
 
