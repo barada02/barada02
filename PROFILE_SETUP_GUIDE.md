@@ -63,6 +63,13 @@ Organized skills in categories with bordered cells:
 </table>
 ```
 
+**Where to get icons:**
+- **DevIcon** (Recommended): https://devicon.dev/ - Browse and copy CDN links directly
+  - Example: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg`
+  - Has 150+ technology icons in consistent style
+  - Simply click on any icon and copy the CDN URL
+- Alternatively: [Simple Icons](https://simpleicons.org/) or [Shields.io](https://shields.io/)
+
 **Pro Tip:** Use cascading alignment (`<div align="right">`) to create a zigzag effect!
 
 ### 4. **GitHub Statistics**
