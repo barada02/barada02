@@ -170,10 +170,21 @@
   
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" rowspan="2">
+      <img src="ghibili.gif" width="400" alt="Ghibli Animation" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
