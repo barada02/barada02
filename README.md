@@ -95,7 +95,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=barada02&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img width="49%" src="https://streak-stats.demolab.com?user=barada02" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
