@@ -97,6 +97,9 @@
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img width="49%" src="https://streak-stats.demolab.com?user=barada02" alt="GitHub Streak" /></a>
 </div>
+<div allign="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=barada02" alt="GitHub Streak" /></a>
+</div>
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
