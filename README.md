@@ -64,7 +64,7 @@
   </tr>
 
 </table>
-<div style="margin: 30px 0;"></div>
+<div style="margin: 10px 0;"></div>
 <div align="right">
 
 ### 🤖 AI/ML & Data Science
