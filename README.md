@@ -62,10 +62,9 @@
       <br>PHP
     </td>
   </tr>
+  
 </table>
-
 <div align="right">
-
 ### 🤖 AI/ML & Data Science
 <table>
   <tr>
