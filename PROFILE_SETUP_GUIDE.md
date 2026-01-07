@@ -222,7 +222,7 @@ jobs:
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.git
+git clone https://github.com/barada02/barada02.git
 cd YOUR_USERNAME
 ```
 
