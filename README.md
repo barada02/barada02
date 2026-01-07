@@ -7,8 +7,8 @@
 </div>
 
 <div style="font-family: Arial, sans-serif;">
-  <h1 align="center">Hi 👋, I'm Chandan Kumar Barada (Ck) 😎</h1>
-  <h3 align="center">AI/ML Engineer | Full Stack Developer | Open Source Enthusiast</h3>
+  <h1 align="center">Hi 👋, I'm Chandan Kumar (Ck) 😎</h1>
+  <h3 align="center">Aspiring AI/ML Engineer | Partime Developer </h3>
   
   <p align="center">
     <em>From Bharat (India 🇮🇳) | Building the Future with AI/ML</em>
