@@ -14,6 +14,11 @@
     <em>From Bharat (India 🇮🇳) | Building the Future with AI/ML</em>
   </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder GIF" />
+</p>
+
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently developing **AI/ML Based Applications**
