@@ -107,7 +107,8 @@
 
 <div align="center">
 
-
+## Stricks
+[![GitHub Streak](https://streak-stats.demolab.com?user=barada02)](https://git.io/streak-stats)
   
 ## 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barada02&theme=github-compact&hide_border=trute)](https://github.com/barada02)
