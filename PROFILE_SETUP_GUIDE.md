@@ -223,7 +223,7 @@ jobs:
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/barada02/barada02.git
-cd YOUR_USERNAME
+cd barada02
 ```
 
 ### 3. Copy the Template
