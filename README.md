@@ -14,13 +14,6 @@
     <em>From Bharat (India 🇮🇳) | Building the Future with AI/ML</em>
   </p>
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=barada02&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently developing **AI/ML Based Applications**
