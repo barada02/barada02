@@ -1,7 +1,33 @@
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=barada02&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/barada02?style=social)](https://github.com/barada02)
+[![GitHub stars](https://img.shields.io/github/stars/barada02?style=social)](https://github.com/barada02)
+
+</div>
+
 <div style="font-family: Arial, sans-serif;">
-  <h1 align="left">Hi 👋, I am Ck 😎</h1>
-  <h3 align="left">Welcome to my Profile. Nice to See you.</h3>
-  <p align="left">My name is Chandan Kumar Barada From Bharat (India 🇮🇳). <br>Currently developing my Skill and work base on AI/ML Based application.<br>Experimenting Different RAG architecture and LLM fine tuning.</p>
+  <h1 align="center">Hi 👋, I'm Chandan Kumar Barada (Ck) 😎</h1>
+  <h3 align="center">AI/ML Engineer | Full Stack Developer | Open Source Enthusiast</h3>
+  
+  <p align="center">
+    <em>From Bharat (India 🇮🇳) | Building the Future with AI/ML</em>
+  </p>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=barada02&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+## 👨‍💻 About Me
+
+- 🔭 Currently developing **AI/ML Based Applications**
+- 🌱 Experimenting with **RAG Architecture & LLM Fine-tuning**
+- 💡 Passionate about **Deep Learning, Computer Vision & NLP**
+- 🎯 Focus: Building intelligent systems that solve real-world problems
+- 📚 Always learning and exploring new technologies
   <h2>🛠 Skills</h2>
   <table>
     <tr>
@@ -65,20 +91,23 @@
     </tr>
   </table>
   
-  <div align="left">
-  <table>
-    <tr>
-      <td>
-        <h2>📚 Languages and Tools</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&langs_count=8&layout=donut&theme=radical" alt="Top Langs">
-      </td>
-      <td>
-        <h2>📊 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=barada02&hide_rank=true&show_icons=true&theme=radical" alt="GitHub stats">
-      </td>
-    </tr>
-  </table>
-  </div>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=barada02&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  
+## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barada02&theme=github-compact&hide_border=true)](https://github.com/barada02)
+
+</div>
 
   <h2>📫 Contact Me</h2>
   <ul>
@@ -86,27 +115,36 @@
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/">LinkedIn Profile</a></li>
   </ul>
   <h2>🔗 Connect with Me</h2>
-  <div align="left">
-    <a href="https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="https://x.com/Mr_ck__" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-    </a>
-    <a href="#" title="Discord: quetzal_002">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    </a>
-    <a href="https://www.instagram.com/mr.____kumar__/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    </a>
-    <a href="mailto:chandanbarada2@gmail.com">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-  </div>
-  <h2>🎉 Fun Facts</h2>
-  <ul>
-    <li>I love hiking and exploring new trails.</li>
-    <li>I'm a big fan of sci-fi movies and books.</li>
-  </ul>
-  <p>Feel free to reach out if you have any questions or just want to connect!</p>
+  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mr_ck__)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.____kumar__/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanbarada2@gmail.com)
+
+</div>
+
+
+## 🎉 Fun Facts
+
+- 🥾 I love hiking and exploring new trails
+- 🎬 Big fan of sci-fi movies and books
+- 🤖 Fascinated by the intersection of AI and creativity
+- ☕ Fueled by coffee and curiosity
+
+---
+
+<div align="center">
+  
+### 💭 "The best way to predict the future is to invent it." - Alan Kay
+
+### 📬 Feel free to reach out for collaborations or just a friendly chat!
+
+![Snake animation](https://raw.githubusercontent.com/barada02/barada02/output/github-contribution-grid-snake-dark.svg)
+
+⭐️ From [barada02](https://github.com/barada02) with ❤️
+
+</div>
 </div>
