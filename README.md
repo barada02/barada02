@@ -229,6 +229,13 @@
 
 ### 📬 Feel free to reach out for collaborations or just a friendly chat!
 
+<br>
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+![Snake animation](https://raw.githubusercontent.com/barada02/barada02/output/snake.svg)
+
+<br>
 
 ⭐️ From [barada02](https://github.com/barada02) with ❤️
 
