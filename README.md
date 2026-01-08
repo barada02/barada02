@@ -187,14 +187,7 @@
   </tr>
 </table>
 
-<div align="center">
-  
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=barada02)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
   
 ## 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barada02&theme=github-compact&hide_border=trute)](https://github.com/barada02)
