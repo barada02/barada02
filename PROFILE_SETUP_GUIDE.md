@@ -87,9 +87,11 @@ Organized skills in categories with bordered cells:
 #### Streak Stats:
 ```markdown
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME" alt="GitHub Streak" />
 </a>
 ```
+
+**Note:** Use this HTML format instead of markdown link format for better reliability and to avoid caching issues. Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 5. **Contribution Graph**
 ```markdown
