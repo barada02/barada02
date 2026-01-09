@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/barada02?style=social)](https://github.com/barada02)
 [![GitHub stars](https://img.shields.io/github/stars/barada02?style=social)](https://github.com/barada02)
 
-
+</div>
 
 <div style="font-family: Arial, sans-serif;">
   <h1 align="center">Hi 👋, I'm Chandan Kumar (Ck) 😎</h1>
