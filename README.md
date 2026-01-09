@@ -18,8 +18,10 @@
   <img src="anime1.gif" width="500" alt="Coder GIF" />
 </p>
 
+<div align ="center">
 
 ## 👨‍💻 About Me
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Chandan+%F0%9F%91%8B;I+build+ML+Models+%26+Intelligent+Systems+%F0%9F%A4%96;Working+on+Agent+Frameworks+%26+Multi-Agent+Applications+%F0%9F%A7%A0;Edge+ML+%26+LLM+Model+Deployment+Enthusiast+%F0%9F%9A%80;Passionate+about+Deep+Learning+%26+Computer+Vision+%F0%9F%92%A1;Always+learning%2C+always+building+%F0%9F%93%9A;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
