@@ -150,6 +150,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" />
       <br>GCP
     </td>
+    <td align="center" width="90" style="border: 2px solid #444;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg" width="50" height="50" alt="Cloud Run" />
+      <br>Cloud Run
+    </td>
   </tr>
 </table>
 
@@ -171,7 +175,7 @@
       <br>Terraform
     </td>
     <td align="center" width="90" style="border: 2px solid #444;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastAPI" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="50" height="50" alt="FastAPI" />
       <br>FastAPI
     </td>
   </tr>
