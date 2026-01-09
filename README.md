@@ -95,6 +95,8 @@
 
 </div>
 
+<div align="left">
+
 ### 🎨 Frontend Development
 <table>
   <tr>
@@ -120,6 +122,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 <div align="right">
 
@@ -159,6 +163,8 @@
 
 </div>
 
+<div align="left">
+
 ### 🔧 Tools & Others
 <table>
   <tr>
@@ -180,6 +186,8 @@
     </td>
   </tr>
 </table>
+
+</div>
   
 ## 📊 GitHub Statistics
 
