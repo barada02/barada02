@@ -187,13 +187,7 @@
   </tr>
 </table>
 
-<div align="center">
-  
-## 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barada02" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
   
