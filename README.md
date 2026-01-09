@@ -191,7 +191,7 @@
   
 ## 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barada02" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barada02)](https://git.io/streak-stats)
 
 </div>
 
