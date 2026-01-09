@@ -33,7 +33,7 @@
 - 📚 Always learning and exploring new technologies
 
 ## 🛠 Skills & Technologies
-
+<div align="left">
 ### 💻 Programming Languages
 <table>
   <tr>
@@ -64,6 +64,7 @@
   </tr>
 
 </table>
+</div>
 <div style="margin: 10px 0;"></div>
 <div align="right">
 
