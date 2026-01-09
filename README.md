@@ -26,12 +26,14 @@
 
 </p>
 <div align = "left">
+
 - 🔭 Currently building **ML Models & Intelligent Systems**
 - 🤖 Working on **Agent Frameworks & Multi-Agent Applications**
 - 🚀 Focused on **Edge ML & LLM Model Deployment**
 - 💡 Passionate about **Deep Learning, Computer Vision & NLP**
 - 🎯 Building innovative solutions that solve real-world problems
 - 📚 Always learning and exploring new technologies
+
 </div>
 
 ## 🛠 Skills & Technologies
