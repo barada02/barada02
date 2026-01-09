@@ -190,7 +190,7 @@
 <div align="center">
   
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=barada02)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=barada02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
 </div>
 
