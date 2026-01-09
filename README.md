@@ -223,6 +223,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.____kumar__/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanbarada2@gmail.com)
+[![Guestbook](https://img.shields.io/badge/📖_Sign_My_Guestbook-Click_Here-success?style=for-the-badge)](https://github.com/barada02/barada02/discussions/categories/guestbook)
 
 </div>
 
