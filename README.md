@@ -86,6 +86,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50" alt="Kaggle" />
       <br>Kaggle
     </td>
+    <td align="center" width="90" style="border: 2px solid #444;">
+      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
   </tr>
 </table>
 
@@ -165,6 +169,10 @@
     <td align="center" width="90" style="border: 2px solid #444;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
       <br>Terraform
+    </td>
+    <td align="center" width="90" style="border: 2px solid #444;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastAPI" />
+      <br>FastAPI
     </td>
   </tr>
 </table>
