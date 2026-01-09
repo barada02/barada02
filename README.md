@@ -6,6 +6,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+
 <div style="font-family: Arial, sans-serif;">
   <h1 align="center">Hi 👋, I'm Chandan Kumar (Ck) 😎</h1>
   <h3 align="center">Aspiring AI/ML Engineer | Partime Developer </h3>
@@ -257,4 +259,7 @@
 ⭐️ From [barada02](https://github.com/barada02) with ❤️
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 </div>
