@@ -260,7 +260,7 @@
 
 ### 📬 Feel free to reach out for collaborations or just a friendly chat!
 
-[![Click Here](https://img.shields.io/badge/📧_Contact_Me-Click_Here-blue?style=for-the-badge)](mailto:chandanbarada2@gmail.com)
+[![Click Here](https://img.shields.io/badge/�_Say_Hi-Click_Here-blue?style=for-the-badge)](mailto:chandanbarada2@gmail.com)
 
 <br>
 
