@@ -220,7 +220,7 @@
   
 ## 🔥 GitHub Streak
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=barada02" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kappa-lilac.vercel.app?user=barada02" alt="GitHub Streak" /></a>
 
 </div>
 
